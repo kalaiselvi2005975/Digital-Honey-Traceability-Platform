@@ -8,7 +8,6 @@
 [![Django](https://img.shields.io/badge/Backend-Django_REST_5.0-092E20?style=for-the-badge&logo=django)](https://djangoproject.com)
 [![React](https://img.shields.io/badge/Frontend-React_18_|_Vite_|_TS-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org)
 [![Solidity](https://img.shields.io/badge/Blockchain-Hardhat_|_EVM_|_Web3-363636?style=for-the-badge&logo=solidity)](https://hardhat.org)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
   <b>A comprehensive, tamper-evident Honey Traceability and Quality Verification Platform.</b><br/>
