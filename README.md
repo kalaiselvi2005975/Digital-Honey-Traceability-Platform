@@ -260,9 +260,4 @@ sih-honey-traceability/
 * **Event**: Smart India Hackathon 2026
 * **Domain**: Agriculture, Supply Chain Security & Blockchain
 
----
 
-<div align="center">
-  <b>Built with ❤️ for SIH 2026</b><br/>
-  <i>Ensuring Honey Purity Through Innovation and Cryptography.</i>
-</div>
